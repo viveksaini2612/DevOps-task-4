@@ -1,6 +1,4 @@
-# DevOps-task-4
-DevOps Task 4
-Create A dynamic Jenkins cluster and perform task-3 using the dynamic Jenkins cluster.
+Create A dynamic Jenkins cluster and perform using the dynamic Jenkins cluster.
 Steps to proceed as:
 
 1. Create a container image that has Linux and other basic configuration required to run Slave for Jenkins. ( example here we require kubectl to be configured )
